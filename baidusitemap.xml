@@ -1,816 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
   <url>
-    <loc>http://www.mastervin.cn/articles/2018/0921/screening-prime-number.html</loc>
-    <lastmod>2018-09-21T06:24:40.784Z</lastmod>
-    <data>
-        <display>
-        <title>筛选质数</title>
-        <pubTime>2018-09-21T06:24:40.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/my-love.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2018/0914/zhou-ziyu.html</loc>
-    <lastmod>2018-09-14T09:50:57.652Z</lastmod>
-    <data>
-        <display>
-        <title>周自勉</title>
-        <pubTime>2018-09-14T09:50:57.000Z</pubTime>
-        
-        <tag>自勉</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0824/9-how-does-redux-streamline-the-code.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2018/0524/blog-at-the-beginning.html</loc>
-    <lastmod>2018-08-28T05:47:34.555Z</lastmod>
-    <data>
-        <display>
-        <title>博客伊始</title>
-        <pubTime>2018-05-24T14:22:46.297Z</pubTime>
-        
-        <tag>关于</tag>
-         
-         
-           
-             
-              <breadCrumb title="关于" url="http://www.mastervin.cn/categories/about/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0521/older-do-you-still-believe-in-love.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0628/three-years-of-graduation-work-summary.html</loc>
-    <lastmod>2018-08-28T05:47:34.553Z</lastmod>
-    <data>
-        <display>
-        <title>毕业工作三年总结</title>
-        <pubTime>2016-06-27T22:11:08.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-        <tag>年终总结</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/turn-around-and-forget-that-night.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0721/4-navigation-combat.html</loc>
-    <lastmod>2018-08-28T05:47:34.549Z</lastmod>
-    <data>
-        <display>
-        <title>4. Navigation实战</title>
-        <pubTime>2016-07-21T02:28:27.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0621/1-reactnative-environment-building.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0628/1-springboot-framework-initial.html</loc>
-    <lastmod>2018-08-28T05:47:34.547Z</lastmod>
-    <data>
-        <display>
-        <title>1. spring-boot框架初始</title>
-        <pubTime>2016-06-27T19:33:04.000Z</pubTime>
-        
-        <tag>spring-boot</tag>
-         
-        <tag>java</tag>
-         
-        <tag>技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0118/yearend-summary-at-the-end-of-business.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0514/love-first-page.html</loc>
-    <lastmod>2018-08-28T05:47:34.457Z</lastmod>
-    <data>
-        <display>
-        <title>爱人，第一页</title>
-        <pubTime>2017-05-14T04:30:12.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-        <tag>爱人</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0621/3-reactredux.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2018/0528/cabin-first-built.html</loc>
-    <lastmod>2018-08-28T05:47:34.359Z</lastmod>
-    <data>
-        <display>
-        <title>小屋初建</title>
-        <pubTime>2018-05-28T11:26:10.000Z</pubTime>
-        
-        <tag>开始</tag>
-         
-         
-           
-             
-              <breadCrumb title="开始" url="http://www.mastervin.cn/categories/start/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0628/1-initial-springboot-framework.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0523/springcloud-build-microservice-architecture.html</loc>
-    <lastmod>2018-08-28T05:47:34.358Z</lastmod>
-    <data>
-        <display>
-        <title>spring-cloud构建微服务架构</title>
-        <pubTime>2017-05-23T03:07:44.000Z</pubTime>
-        
-        <tag>spring-boot</tag>
-         
-        <tag>java</tag>
-         
-        <tag>技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0628/lover-page-three.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0628/love-page-4.html</loc>
-    <lastmod>2018-08-28T05:47:34.036Z</lastmod>
-    <data>
-        <display>
-        <title>爱人，第四页</title>
-        <pubTime>2016-06-27T22:36:49.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-        <tag>爱人</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2018/0524/the-beginning-of-blog.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0628/love-page-3.html</loc>
-    <lastmod>2018-08-28T05:47:34.034Z</lastmod>
-    <data>
-        <display>
-        <title>爱人，第三页</title>
-        <pubTime>2016-06-27T22:35:33.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-        <tag>爱人</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0514/lover-first-page.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/my-lover-love.html</loc>
-    <lastmod>2018-08-28T05:47:33.955Z</lastmod>
-    <data>
-        <display>
-        <title>我的爱人，我的爱</title>
-        <pubTime>2016-06-19T23:47:22.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0514/lover-second-page.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0818/8-natural-disasters-that-encounter-force-majeure.html</loc>
-    <lastmod>2018-08-28T05:47:33.954Z</lastmod>
-    <data>
-        <display>
-        <title>8. 遇到不可抗力的自然灾害</title>
-        <pubTime>2016-08-18T02:22:30.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/jean-love.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0514/love-second-page.html</loc>
-    <lastmod>2018-08-28T05:47:33.954Z</lastmod>
-    <data>
-        <display>
-        <title>爱人，第二页</title>
-        <pubTime>2017-05-14T04:29:12.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-        <tag>爱人</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/love-dont-know-why.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0824/9-how-does-redux-streamline-code.html</loc>
-    <lastmod>2018-08-28T05:47:33.953Z</lastmod>
-    <data>
-        <display>
-        <title>9. redux如何精简代码</title>
-        <pubTime>2016-08-23T18:34:10.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2018/0528/initial-construction-of-the-hut.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/love-i-don%E2%80%99t-know-why.html</loc>
-    <lastmod>2018-08-28T05:47:33.952Z</lastmod>
-    <data>
-        <display>
-        <title>爱，不知所以</title>
-        <pubTime>2016-06-19T23:33:08.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0721/4-navigation-in-action.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0621/reactredux.html</loc>
-    <lastmod>2018-08-28T05:47:33.952Z</lastmod>
-    <data>
-        <display>
-        <title>3. react-redux</title>
-        <pubTime>2016-06-20T17:07:17.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0513/vux-singlepage-wechat-development-of-those-things.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0621/1-reactnative-environment-build.html</loc>
-    <lastmod>2018-08-28T05:47:33.948Z</lastmod>
-    <data>
-        <display>
-        <title>1. react-native环境搭建</title>
-        <pubTime>2016-06-21T01:27:05.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0818/8-encountering-force-majeure-natural-disasters.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/jean%C2%B7love.html</loc>
-    <lastmod>2018-08-28T05:47:33.504Z</lastmod>
-    <data>
-        <display>
-        <title>让·爱</title>
-        <pubTime>2016-06-19T23:39:21.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0523/springcloud-builds-microservice-architecture.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0513/vux-singlepage-wechat-development.html</loc>
-    <lastmod>2018-08-28T05:47:33.497Z</lastmod>
-    <data>
-        <display>
-        <title>VUX 单页微信开发的那些事</title>
-        <pubTime>2017-05-13T03:16:27.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>VueJS</tag>
-         
-        <tag>VUX</tag>
-         
-        <tag>前端er</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0514/lover-preface.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0514/love-preface.html</loc>
-    <lastmod>2018-08-28T05:47:33.469Z</lastmod>
-    <data>
-        <display>
-        <title>爱人，序</title>
-        <pubTime>2017-05-14T04:28:33.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-        <tag>爱人</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/wind-blowing-gently.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/flying-star.html</loc>
-    <lastmod>2018-08-28T05:47:33.310Z</lastmod>
-    <data>
-        <display>
-        <title>飞星</title>
-        <pubTime>2016-06-19T23:41:52.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2018/0914/zhou-zimian.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0628/2springbootthymeleafvuejs.html</loc>
-    <lastmod>2018-06-04T07:10:55.343Z</lastmod>
-    <data>
-        <display>
-        <title>2-spring-boot-thymeleaf-vuejs</title>
-        <pubTime>2016-06-27T21:25:14.000Z</pubTime>
-        
-        <tag>spring-boot</tag>
-         
-        <tag>java</tag>
-         
-        <tag>技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/silent-love-woman.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0909/3-springsecurityoauth2.html</loc>
-    <lastmod>2018-06-04T07:06:15.334Z</lastmod>
-    <data>
-        <display>
-        <title>3. spring-security-oauth2</title>
-        <pubTime>2016-09-08T20:10:17.000Z</pubTime>
-        
-        <tag>spring-boot</tag>
-         
-        <tag>java</tag>
-         
-        <tag>技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0628/threeyear-summary-of-graduation-work.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/1008/4-springsecurityoauth2-server.html</loc>
-    <lastmod>2018-06-04T07:04:15.273Z</lastmod>
-    <data>
-        <display>
-        <title>4. spring-security-oauth2 server</title>
-        <pubTime>2016-10-08T03:08:17.000Z</pubTime>
-        
-        <tag>spring-boot</tag>
-         
-        <tag>java</tag>
-         
-        <tag>技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0628/lover-page-four.html</loc>
+    <lastmod>2021-03-09</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0424/java-interview.html</loc>
-    <lastmod>2018-06-04T07:02:29.199Z</lastmod>
-    <data>
-        <display>
-        <title>Java面试</title>
-        <pubTime>2017-04-24T03:09:50.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-        <tag>年终总结</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/flying-star.html</loc>
+    <lastmod>2018-08-28</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0521/old-age-do-you-still-believe-in-love.html</loc>
-    <lastmod>2018-05-31T17:20:58.209Z</lastmod>
-    <data>
-        <display>
-        <title>年纪大了，你还相信爱情吗？</title>
-        <pubTime>2017-05-20T17:37:11.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0628/2springbootthymeleafvuejs.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2017/0118/end-of-business-yearend-summary.html</loc>
-    <lastmod>2018-05-31T17:20:27.668Z</lastmod>
-    <data>
-        <display>
-        <title>创业结束年终总结</title>
-        <pubTime>2017-01-18T01:35:08.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-        <tag>年终总结</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0909/3-springsecurityoauth2.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0920/5-springboot-rest-global-exception-handling.html</loc>
-    <lastmod>2018-05-31T17:20:13.170Z</lastmod>
-    <data>
-        <display>
-        <title>5. spring-boot REST 全局异常处理</title>
-        <pubTime>2016-09-20T00:52:13.000Z</pubTime>
-        
-        <tag>spring-boot</tag>
-         
-        <tag>java</tag>
-         
-        <tag>技术</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/1008/4-springsecurityoauth2-server.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0721/5-listview-application.html</loc>
-    <lastmod>2018-05-31T17:18:46.725Z</lastmod>
-    <data>
-        <display>
-        <title>5. ListView应用</title>
-        <pubTime>2016-07-21T02:29:04.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2017/0424/java-interview.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/wind-gently-blowing.html</loc>
-    <lastmod>2018-05-31T16:47:41.514Z</lastmod>
-    <data>
-        <display>
-        <title>风，轻轻吹过</title>
-        <pubTime>2016-06-19T23:43:55.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0920/5-springboot-rest-global-exception-handling.html</loc>
+    <lastmod>2018-05-31</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/love-woman.html</loc>
-    <lastmod>2018-05-31T16:47:41.186Z</lastmod>
-    <data>
-        <display>
-        <title>默爱。女子</title>
-        <pubTime>2016-06-19T23:26:40.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0721/5-listview-application.html</loc>
+    <lastmod>2018-05-31</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/that-night-turn-around-and-forget.html</loc>
-    <lastmod>2018-05-31T16:47:41.178Z</lastmod>
-    <data>
-        <display>
-        <title>那一夜，转身相忘</title>
-        <pubTime>2016-06-19T23:41:07.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0620/cinderellas-sister.html</loc>
+    <lastmod>2018-05-31</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0620/cinderellas-sister.html</loc>
-    <lastmod>2018-05-31T16:47:41.175Z</lastmod>
-    <data>
-        <display>
-        <title>灰姑娘的姐姐</title>
-        <pubTime>2016-06-19T23:24:32.000Z</pubTime>
-        
-        <tag>随笔</tag>
-         
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://www.mastervin.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
+    <loc>https://kaenry.gitee.io/articles/2016/0621/2-reactnative-resource-list.html</loc>
+    <lastmod>2018-05-31</lastmod>
+  </url>
   <url>
-    <loc>http://www.mastervin.cn/articles/2016/0621/2-reactnative-resource-list.html</loc>
-    <lastmod>2018-05-31T16:40:35.992Z</lastmod>
-    <data>
-        <display>
-        <title>2. react-native资源列表</title>
-        <pubTime>2016-06-21T01:27:17.000Z</pubTime>
-        
-        <tag>技术</tag>
-         
-        <tag>react-native</tag>
-         
-        <tag>前端</tag>
-         
-         
-           
-             
-              <breadCrumb title="技术" url="http://www.mastervin.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>http://www.mastervin.cn/about/index.html</loc>
-    <lastmod>2018-05-28T11:04:24.523Z</lastmod>
-    <data>
-        <display>
-        <title>关于Me</title>
-        <pubTime>2018-05-24T14:00:15.000Z</pubTime>
-        
-         
-        </display>
-    </data>
-    </url>
-
-    
-</urlset>
+    <loc>https://kaenry.gitee.io/about/index.html</loc>
+    <lastmod>2018-05-28</lastmod>
+  </url>
+</urlset> 
